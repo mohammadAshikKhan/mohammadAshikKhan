@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammadAshikKhan
 - 👀 I’m interested in ...Programming, Coding, Traveling
-- 🌱 I’m currently learning ...Web Design/Programming 
+- 🌱 I’m currently learning ...Web Design/Dev/Programming 
 - 💞️ I’m looking to collaborate on ...javascript Dev
 - 📫 How to reach me ...I have given my twitter link in the profile
 
