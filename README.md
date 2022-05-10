@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mohammadAshikKhan
 - 👀 I’m interested in ...Programming, Coding, Traveling
 - 🌱 I’m interested in ...Programming, Coding, Traveling and also Animal husbandry.
-   I’m currently learning ... data science && Web Design && Dev. 
-- 💞️ I’m looking to collaborate on ...javascript Dev
+   I’m currently learning ... data science. 
 - 📫 How to reach me ...I have given my twitter link in the profile
 
 <!---
